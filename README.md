@@ -1,2 +1,2 @@
 # Guides
-- [Run Docker commands without sudo](run-docker-command-without-sudo.md)
+- [Run Docker command without sudo](run-docker-command-without-sudo.md)
