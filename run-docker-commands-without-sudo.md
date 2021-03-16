@@ -2,10 +2,14 @@
 
 ##### 1) Add the `docker` group
 ```console
-$ sudo groupadd docker
+sudo groupadd docker
 ```
 ##### 2) Add the user to the `docker` group
 ```console
-$ sudo adduser [my-user-name] docker
+sudo adduser [my-user-name] docker
 ```
-##### 3) Logout and login again
+##### 3) Restart Docker service
+```console
+sudo systemctl restart docker
+```
+##### 4) Logout and login again
