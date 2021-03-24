@@ -1,15 +1,15 @@
 # Run Docker commands without sudo
 
 ##### 1) Add the `docker` group
-```console
+```bash
 sudo groupadd docker
 ```
 ##### 2) Add the user to the `docker` group
-```console
-sudo adduser [my-user-name] docker
+```bash
+sudo adduser USERNAME docker
 ```
 ##### 3) Restart Docker service
-```console
+```bash
 sudo systemctl restart docker
 ```
 ##### 4) Logout and login again
