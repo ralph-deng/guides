@@ -1,4 +1,4 @@
-# How to access a shared folder of the Linux guest on the Windows host for VMware
+# Access a shared folder of the Linux guest on the Windows host for VMware
 
 ##### 1) Edit the `/etc/fstab` and add this line
 ```bash
