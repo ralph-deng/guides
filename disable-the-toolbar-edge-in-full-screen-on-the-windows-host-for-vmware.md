@@ -1,4 +1,4 @@
-# Disable toolbar edge in full screen on the Windows host for VMware
+# Disable the toolbar edge in full screen on the Windows host for VMware
 
 ##### 1) Search the `preferences.ini` which might be in the C:\Users\USERNAME\AppData\Roaming\VMware on host
 
