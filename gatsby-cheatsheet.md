@@ -1,4 +1,4 @@
-# Gatsby Cheatsheet
+# Gatsby cheatsheet
 
 | Command | Description |
 | - | - |
